@@ -14,7 +14,7 @@ I've been super busy with work and other projects lately that I really don't hav
 ## Installation
 
 ``` bash
-$ npm install react-native-multiple-select --save
+$ npm install --save react-native-multiple-select @github:josejaguirre/react-native-multiple-select 
 ```
 or use yarn
 
