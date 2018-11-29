@@ -33,7 +33,11 @@
     "url": "https://github.com/toystars/react-native-multiple-select/issues"
   },
   "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-native": "^0.57.7",
+    "react-native-vector-icons": "^6.1.0"
+  },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
     "babel-jest": "^18.0.0",

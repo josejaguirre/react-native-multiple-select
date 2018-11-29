@@ -14,12 +14,12 @@ I've been super busy with work and other projects lately that I really don't hav
 ## Installation
 
 ``` bash
-$ npm install --save react-native-multiple-select @github:josejaguirre/react-native-multiple-select 
+$ npm install --save react-native-multiple-select@github:josejaguirre/react-native-multiple-select 
 ```
 or use yarn
 
 ``` bash
-$ yarn add react-native-multiple-select
+$ yarn add react-native-multiple-select@github:josejaguirre/react-native-multiple-select
 ```
 
 
